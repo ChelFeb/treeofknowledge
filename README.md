@@ -1,4 +1,4 @@
 treeofknowledge
 ===============
 
-TreeOfKnowledge it's the way to structure your knowleadge.
+TreeOfKnowledge it's the way to structure your knowledge.
